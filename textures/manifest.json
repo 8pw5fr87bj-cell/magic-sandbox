@@ -1,0 +1,163 @@
+{
+ "size": [
+  1024,
+  512
+ ],
+ "groups": {
+  "terrain": [
+   {
+    "name": "grass",
+    "tile": 2
+   },
+   {
+    "name": "dirt",
+    "tile": 2
+   },
+   {
+    "name": "rock",
+    "tile": 4
+   },
+   {
+    "name": "sand",
+    "tile": 2
+   },
+   {
+    "name": "gravel",
+    "tile": 1.5
+   },
+   {
+    "name": "snow",
+    "tile": 2
+   },
+   {
+    "name": "basalt",
+    "tile": 3
+   },
+   {
+    "name": "forest",
+    "tile": 2
+   }
+  ],
+  "masonry": [
+   {
+    "name": "ashlar",
+    "tile": 2
+   },
+   {
+    "name": "rubble",
+    "tile": 2
+   },
+   {
+    "name": "brick",
+    "tile": 2
+   },
+   {
+    "name": "cobble",
+    "tile": 2
+   },
+   {
+    "name": "flagstone",
+    "tile": 3
+   },
+   {
+    "name": "sandstone",
+    "tile": 3
+   },
+   {
+    "name": "plaster",
+    "tile": 2
+   }
+  ],
+  "surfaces": [
+   {
+    "name": "planks",
+    "tile": 2
+   },
+   {
+    "name": "rooftile",
+    "tile": 2
+   },
+   {
+    "name": "slate",
+    "tile": 2
+   },
+   {
+    "name": "thatch",
+    "tile": 2
+   },
+   {
+    "name": "marble",
+    "tile": 3
+   },
+   {
+    "name": "granite",
+    "tile": 2
+   },
+   {
+    "name": "metal",
+    "tile": 2,
+    "metal": 1
+   },
+   {
+    "name": "gold",
+    "tile": 1,
+    "metal": 1
+   },
+   {
+    "name": "obsidian",
+    "tile": 2
+   },
+   {
+    "name": "crystal",
+    "tile": 1
+   },
+   {
+    "name": "ice",
+    "tile": 2
+   },
+   {
+    "name": "lavarock",
+    "tile": 2,
+    "glow": 1
+   },
+   {
+    "name": "hedge",
+    "tile": 1
+   }
+  ],
+  "bark": [
+   {
+    "name": "oak",
+    "tile": 1.6
+   },
+   {
+    "name": "pine",
+    "tile": 1.4
+   },
+   {
+    "name": "birch",
+    "tile": 1
+   },
+   {
+    "name": "palm",
+    "tile": 1.2
+   },
+   {
+    "name": "cactus",
+    "tile": 1
+   },
+   {
+    "name": "stem",
+    "tile": 1
+   }
+  ]
+ },
+ "leaves": [
+  "broad",
+  "birch",
+  "willow",
+  "cherry",
+  "pine",
+  "palm"
+ ]
+}
